@@ -22,8 +22,7 @@ function App() {
           </nav>
           <Routes>
             <Route path="/login" element={<Login />} />
-            <Route path="/planilha" element={<Planilha />} />
-          </Routes>
+            <Route path="/planilha" element={<Planilha />} />          </Routes>
         </Router>
       </header>
     </div>
